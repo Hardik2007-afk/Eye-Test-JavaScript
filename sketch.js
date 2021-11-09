@@ -6,7 +6,7 @@ var end ;
 
 
 function preload() {
-  bg = loadImage("bg.jpg");
+  bg = loadImage("Bg.jpg");
 bg2 = loadImage("bg2.png");
 pic1Img = loadImage("pic1.png");
 pic2Img = loadImage("pic2.png");
